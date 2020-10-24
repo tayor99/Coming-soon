@@ -1,0 +1,76 @@
+body{
+    background: url('../pics/bliss-at-night-windows-10-4k-c2.jpg')no-repeat;
+    background-size: cover;
+    background-size: 1500px;
+}
+header{
+    padding: 30px 20px;
+}
+
+header h1{
+    font-size: 30px;
+    color: #fff;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header button{
+    padding: 13px 25px;
+    margin-left: 70%;
+    border-radius: 25px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #fff;
+    border: 1px solid #fff;
+    background-color: transparent;
+    transition: 250ms ease-in-out;
+}
+
+section{
+    margin-top: 70px;
+}
+
+section h1{
+    font-size: 90px;
+    text-align: center;
+    font-weight: 700;
+    color: #fff;
+}
+
+section h2{
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+footer{
+    margin-top: 170px;
+}
+
+footer .launch-date{
+    color: #fff;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer .social-icons{
+ margin-left: 81%;
+ color: #fff;
+}
+
+footer .social-icons nav{
+    float: right;
+}
+
+footer .social-icons nav ul li{
+    float: left;
+    margin-right: 8px;
+    list-style: none;
+    font-size: 30px;
+}
+
+footer .social-icons nav ul li:hover{
+    color: silver;
+    cursor: pointer;
+}
